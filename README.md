@@ -8,7 +8,8 @@
 1 - Clonar el repositorio <br/>
 2 - Abrir el archivo con tu editor favorito <br/>
 3 - Click en el archivo HTML y darle click derecho, luego en "open with live server"
-  listo! 😁
+  <br/>
+  <i><b>listo!</b></i>😁
 </p>
 
 <p>
