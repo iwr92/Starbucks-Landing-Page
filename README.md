@@ -13,6 +13,13 @@
   <i><b>listo!</b></i>😁
 </p>
 
+📌Tecnologías:
+<p>
+  <i><b>- HTML5</b> <br/></i>
+  <i><b>- CSS3</b> <br/></i>
+  <i><b>- JAVASCRIPT</b></i>
+</P>
+
 <p>
   <img src="https://user-images.githubusercontent.com/95699700/174691436-2654852a-c22e-4ab8-a131-b460e2d911cd.png"/>
   <img src="https://user-images.githubusercontent.com/95699700/174691472-b71954bd-dccf-4d3c-a698-98df33211530.png"/>
